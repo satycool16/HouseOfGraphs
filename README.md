@@ -11,7 +11,7 @@ sudo docker-compose -f docker-compose.database.yml up
 (2) This creates a PostgreSQL container, but doesn't yet contain data. To create the data, go into the container and execute the provided script.
 ```
 sudo docker ps
-sudo docker exec -t <CONTAINER_ID> bash
+sudo docker exec -it <CONTAINER_ID> bash
 ```
 Once inside the container, do the following. This could take some time, as the database is restored (e.g.10 minutes).
 ```

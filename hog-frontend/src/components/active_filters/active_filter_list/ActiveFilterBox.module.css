@@ -1,0 +1,11 @@
+.filterList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.editBtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}

@@ -1,0 +1,100 @@
+{
+  "news": [
+    {
+      "date": "2022-04-20",
+      "text": "Added list of K2-hamiltonian snarks to the meta-directory.",
+      "url": "/meta-directory/snarks#k2_hamil"
+    },
+    {
+      "date": "2021-09-16",
+      "text": "Added list of 3-connected planar self-dual graphs to the meta-directory.",
+      "url": "/meta-directory/planar#self-dual"
+    },
+    {
+      "date": "2021-09-07",
+      "text": "Added list of minimal Cayley graphs to the meta-directory.",
+      "url": "/meta-directory/minimal-cayley"
+    },
+    {
+      "date": "2020-07-09",
+      "text": "It is now possible to search for a graph with a given graph6 string (rather than having to upload it from a file).",
+      "url": "/search"
+    },
+    {
+      "date": "2019-11-22",
+      "text": "Added list of perihamiltonian graphs to the meta-directory.",
+      "url": "/meta-directory/perihamiltonian"
+    },
+    {
+      "date": "2019-09-17",
+      "text": "Added list of snarks with minimal circular flow number to the meta-directory.",
+      "url": "/meta-directory/snarks"
+    } ,
+    {
+      "date": "2019-08-08",
+      "text": "Added list of regular nut graphs to the meta-directory.",
+      "url": "/meta-directory/nut"
+    },
+    {
+      "date": "2019-03-28",
+      "text": "Added list of permutation snarks to the meta-directory.",
+      "url": "/meta-directory/snarks"
+    },
+    {
+      "date": "2019-03-18",
+      "text": "Added list of cographs to the meta-directory.",
+      "url": "/meta-directory/cographs"
+    },
+    {
+      "date": "2018-12-12",
+      "text": "Added list of uniquely hamiltonian graphs to the meta-directory.",
+      "url": "/meta-directory/uniquely-hamiltonian"
+    },
+    {
+      "date": "2018-08-31",
+      "text": "Added list of snarks with oddness 4 to the meta-directory.",
+      "url": "/meta-directory/snarks"
+    },
+    {
+      "date": "2018-05-31",
+      "text": "Added support to search for a graph with a specific HoG graph id.",
+      "url": "/search"
+    },
+    {
+      "date": "2018-05-29",
+      "text": "Added the invariants circumference, density and planar."
+    },
+    {
+      "date": "2018-05-28",
+      "text": "It is now possible to view the 10 most recently added graphs."
+    },
+    {
+      "date": "2018-03-22",
+      "text": "Added list of snarks with circular flow number 5 to the meta-directory.",
+      "url": "/meta-directory/snarks"
+    },
+    {
+      "date": "2017-11-17",
+      "text": "Added list of triangle-free k-chromatic graphs to the meta-directory.",
+      "url": "/meta-directory/triangle-free-k-chromatic"
+    },
+    {
+      "date": "2017-10-16",
+      "text": " Added list of platypus graphs to the meta-directory.",
+      "url": "/meta-directory/platypus"
+    },
+    {
+      "date": "2017-06-08",
+      "text": "Added list of nut graphs to the meta-directory.",
+      "url": "/meta-directory/nut"
+    }
+  ]
+}
+
+
+
+
+
+
+
+

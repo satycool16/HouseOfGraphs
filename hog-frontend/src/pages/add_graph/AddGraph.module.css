@@ -1,0 +1,23 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 50px;
+    margin-top: 50px;
+}
+
+.menu_item {
+    border: 1px solid lightgreen;
+    border-radius: 10%;
+    padding: 20px 50px;
+    background: #DDFFDD;
+    cursor: pointer;
+}
+
+.menu_item:hover {
+    background: #c7e6c7;
+}
+
+.menu_name {
+    margin-top: 10px;
+}

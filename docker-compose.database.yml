@@ -1,0 +1,24 @@
+version: '3'
+services:
+  database:
+   container_name: database
+   image: "postgres"
+   restart: on-failure
+   ports:
+    - 5001:5432
+   environment:
+     POSTGRES_USER: postgres
+     POSTGRES_PASSWORD: admin
+     POSTGRES_DB: postgres
+     PGUSER: postgres
+   volumes:
+    - database-data:/var/lib/postgresql/data/ 
+    - ./database:/home/HoG/database/
+
+volumes:
+  database-data: 
+  
+networks: 
+  default: 
+    external: 
+      name: hog-network

@@ -1,0 +1,26 @@
+version: '3'
+services:
+  backend:
+   container_name: backend
+   image: "hog-backend:latest"
+   build:
+    context: ./hog-backend
+   #environment:
+   #  LD_LIBRARY_PATH: /home/HoG/backend/lib/:/usr/local/lib
+   ports:
+    - 8080:8080
+
+    
+  frontend:
+   container_name: frontend
+   image: "hog-frontend:latest"
+   build:
+    context: ./hog-frontend
+   ports:
+    - 8899:80
+
+
+networks: 
+  default: 
+    external: 
+      name: hog-network

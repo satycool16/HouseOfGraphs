@@ -1,0 +1,35 @@
+.link {
+    stroke: #000;
+}
+
+.node {
+    fill: white;
+    stroke: #0047AB;
+}
+
+.node.fixed {
+    fill: lightblue;
+}
+
+.node.dragged {
+    fill: dodgerblue;
+}
+
+.node.remove {
+    fill: red;
+    stroke: darkred;
+}
+
+.link.remove {
+    stroke: red;
+}
+
+.node.source {
+    fill: mediumseagreen;
+    stroke: darkgreen;
+}
+
+.node.target {
+    fill: mediumseagreen;
+    stroke: darkgreen;
+}

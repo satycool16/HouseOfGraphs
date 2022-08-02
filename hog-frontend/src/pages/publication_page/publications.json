@@ -1,0 +1,71 @@
+{
+  "2020": [
+    "G.D. Scholes, Polaritons and excitons: Hamiltonian design for enhanced coherence, <i>Proceedings of the Royal Society A</i>, 476.2242:20200278, 2020.",
+    "K. Okrasa and P. Rzazewski, Fine-grained complexity of graph homomorphism problem for bounded-treewidth graphs, <i>Proc. Thirty-First Annual ACM-SIAM Symposium on Discrete Algorithms (SODA20)</i>, Salt Lake City, UT, USA, pages 1578-1590, 2020.",
+    "M. Chudnovsky, J. Goedgebeur, O. Schaudt and M. Zhong, Obstructions for three-coloring graphs without induced paths on six vertices, <i>Journal of Combinatorial Theory, Series B</i>, 140:45-83, 2020.",
+    "J. Goedgebeur, E. Máčajová and M. Škoviera, The smallest nontrivial snarks of oddness 4, <i>Discrete Applied Mathematics</i>, 277:139-162, 2020.",
+    "N. Kothari, M.H. de Carvalho, C.L. Lucchesi and C.H.C. Little, On essentially 4-edge-connected cubic bricks, <i>Electronic Journal of Combinatorics</i>, 27(1), 44 pages, 2020.",
+    "B. Klocker, H. Fleischner and G.R. Raidl, A model for finding transition-minors, <i>Discrete Applied Mathematics</i>, 283:242-264, 2020.",
+    "M. Fischer, M. Galla, L. Herbst, Y. Long and K. Wicke, Classes of tree-based networks, <i>Visual Computing for Industry, Biomedicine, and Art</i>, 3:1-26, 2020."
+  ],
+  "2019": [
+    "Z. Xu, X. Huang, F. Jimenez and Y. Deng, A new record of graph enumeration enabled by parallel processing, <i>Mathematics</i>, 7:1214, 2019.",
+    "M. Abreu, J. Goedgebeur, D. Labbate and G. Mazzuoccolo, Colourings of cubic graphs inducing isomorphic monochromatic subgraphs, <i>Journal of Graph Theory</i>, 92(4):415-444, 2019.",
+    "G. Abrishami and F. Rahbarnia, A note on the smallest connected non-traceable cubic bipartite planar graph, <i>Discrete Mathematics</i>, 342(8):2384-2392, 2019.",
+    "A. Hoffmann-Ostenhof and T. Jatschka, Snarks with Special Spanning Trees, <i>Graphs and Combinatorics</i>, 35(1):207-219, 2019.",
+    "C. Rubio-Montiel, The 4-girth-thickness of the complete multipartite graph, <i>Electronic Journal of Graph Theory and Applications</i>, 7(1):183-188, 2019.",
+    "J. Goedgebeur, E. Máčajová and M. Škoviera, Smallest snarks with oddness 4 and cyclic connectivity 4 have order 44, <i>Ars Mathematica Contemporanea</i>, 16(2):277-298, 2019.",
+    "M. Ghebleh, A. Kanso and D. Stevanović, Graph6Java: A researcher-friendly Java framework for testing conjectures in chemical graph theory, <i>MATCH Commun. Math. Comput. Chem.</i>, 81(3):737-770, 2019."
+  ],
+  "2018": [
+    "J.W. Heal, G.J. Bartlett, C.W. Wood, A.R. Thomson and D.N. Woolfson, Applying graph theory to protein structures: an atlas of coiled coils, <i>Bioinformatics</i>, 34(19):3316-3323, 2018.",
+    "K. Coolsaet, P.W. Fowler and J. Goedgebeur, Generation and properties of nut graphs, <i>MATCH Commun. Math. Comput. Chem.</i>, 80(2):423-444, 2018.",
+    "N. Erokhovets, Construction of Fullerenes and Pogorelov Polytopes with 5-, 6-and one 7-Gonal Face, <i>Symmetry</i>, 10(3), 2018.",
+    "J. Chapman, J. Foos, E.J. Hartung, A. Nelson and A. Williams, Pairwise Disagreements of Kekule, Clar and Fries Numbers for Benzenoids: A Mathematical and Computational Investigation, <i>MATCH Commun. Math. Comput. Chem.</i>, 80(1):189-206, 2018.",
+    "J. Goedgebeur, On the smallest snarks with oddness 4 and connectivity 2, <i>Electronic Journal of Combinatorics</i>, 25(2), 2018.",
+    "G. Brinkmann, J. Souffriau, N. Van Cleemput, On the number of hamiltonian cycles in triangulations with few separating triangles, <i>Journal of Graph Theory</i>, 87(2):164-175, 2018."
+  ],
+  "2017": [
+    "V. Weil and O. Schaudt, On bounding the difference between the maximum degree and the chromatic number by a constant, <i>Discrete Applied Mathematics</i>, 231:228-234, 2017.",
+    "G. Brinkmann and J. Goedgebeur, Generation of cubic graphs and snarks with large girth, <i>Journal of Graph Theory</i>, 86(2):255-272, 2017.",
+    "N. Basic, G. Brinkmann, P.W. Fowler, T. Pisanski and N. Van Cleemput, Sizes of pentagonal clusters in fullerenes, <i>Journal of Mathematical Chemistry</i>, 55(8):1669-1682, 2017.",
+    "R. Samal, Cycle-Continuous Mappings-Order Structure, <i>Journal of Graph Theory</i>, 85(1):56-73, 2017.",
+    "M. Jooyandeh, B.D. McKay, P.R. Östergård, V.H. Pettersson and C.T. Zamfirescu, Planar hypohamiltonian graphs on 40 vertices, <i>Journal of Graph Theory</i>, 84(2):121-133, 2017.",
+    "V.M. Buchstaber and N.Y. Erokhovets, Finite sets of operations sufficient to construct any fullerene from C20, <i>Structural Chemistry</i>, 28(1), 225-234, 2017.",
+    "R. van Wersch and S. Kelk, ToTo: An open database for computation, storage and retrieval of tree decompositions, <i>Discrete Applied Mathematics</i>, 217:389-393, 2017."
+  ],
+  "2016": [
+    "L. Trombach, S. Rampino, L.S. Wang and P. Schwerdtfeger, Hollow Gold Cages and Their Topological Relationship to Dual Fullerenes, <i>Chemistry - A European Journal</i>, 22(26):1521-3765, 2016.",
+    "J. Goedgebeur and O. Schaudt, Exhaustive generation of k-critical H-free graphs, <i>Proc. 42nd International Workshop on Graph-Theoretic Concepts in Computer Science (WG2016)</i>, Istanbul, Turkey, LNCS 9941, pages 109-120, 2016.",
+    "T. Hoppe and A. Petrone, Integer sequence discovery from small graphs, <i>Discrete Applied Mathematics</i>, 201:172-181, 2016.",
+    "M. Chudnovsky, J. Goedgebeur, O. Schaudt and M. Zhong, Obstructions for three-coloring graphs with one forbidden induced subgraph, <i>Proc. Twenty-Seventh Annual ACM-SIAM Symposium on Discrete Algorithms (SODA16)</i>, Arlington, Virginia, USA, pages 1774-1783, 2016."
+  ],
+  "2015": [
+    "J. Goedgebeur and B.D. McKay, Fullerenes with distant pentagons, <i>MATCH Commun. Math. Comput. Chem.</i>, 74(3):659-672, 2015.",
+    "T.H.A. Lemos and A.L.P. Guedes, Comparison of Graph Invariants in Predicting Fullerene Stability, <i>MATCH Commun. Math. Comput. Chem.</i>, 74(3):533-560, 2015.",
+    "J. Goedgebeur and B.D. McKay, Recursive generation of IPR fullerenes, <i>Journal of Mathematical Chemistry</i>, 53(8):1702-1724, 2015.",
+    "J. Goedgebeur, A counterexample to the pseudo 2-factor isomorphic graph conjecture, <i>Discrete Applied Mathematics</i>, 193:57-60, 2015.",
+    "G. Brinkmann, M. Preissmann and D. Sasaki, Snarks with total chromatic number 5, <i>Discrete Mathematics & Theoretical Computer Science</i>, 17(1):369-382, 2015.",
+    "I. Althofer, J.K. Haugland, K. Scherer, F. Schneider and N. Van Cleemput, <i>Alternating plane graphs. ARS MATHEMATICA CONTEMPORANEA</i>, 8(2):337–363, 2015.",
+    "P. Schwerdtfeger, L. Wirz and J. Avery, The topology of fullerenes, <i>Wiley Interdisciplinary Reviews: Computational Molecular Science</i>, 5(1):96-145, 2015."
+  ],
+  "2014": [
+    "P. Heinig, On prisms, Möbius ladders and the cycle space of dense graphs, <i>European Journal of Combinatorics</i>, 36:503-530, 2014.",
+    "K. Jesse-Józefczyk and E. Sidorowicz, Secure sets and their expansion in cubic graphs, <i>Central European Journal of Mathematics</i>, 12(11):1664-1673, 2014.",
+    "K. Smith-Miles and D. Baatar, Exploring the role of graph spectra in graph coloring algorithm performance, <i>Discrete Applied Mathematics</i>, 176:107-121, 2014.",
+    "K. Smith-Miles, D. Baatar, B. Wreford and R. Lewis, Towards objective measures of algorithm performance across instance space, <i>Computers & Operations Research</i>, 45:12-24, 2014.",
+    "L. Wirz, R. Tonner, J. Avery and P. Schwerdtfeger, Structure and Properties of the Nonface-Spiral Fullerenes T-C380, D 3-C384, D 3-C440 and D3-C672 and Their Halma and Leapfrog Transforms, <i>Journal of Chemical Information and Modeling</i>, 54(1):121-130, 2014."
+  ],
+  "2013": [
+    "S. Billey and B.E. Tenner, Fingerprint databases for theorems, <i>Notices of the American Mathematical Society</i>, 60(8):1034-1039, 2013.",
+    "G. Brinkmann, J. Goedgebeur, J. Hägglund and K. Markström, Generation and properties of Snarks, <i>Journal of Combinatorial Theory, Series B</i>, 103(4):468-488, 2013.",
+    "C.N. da Silva, L. Pesci and C.L. Lucchesi, Snarks and Flow-Critical Graphs, <i>Electronic Notes in Discrete Mathematics</i>, 44:299-305, 2013.",
+    "J. Goedgebeur and S.P. Radziszowski, New computational upper bounds for Ramsey numbers R(3,k), <i>Electronic Journal of Combinatorics</i>, 20(1), 2013.",
+    "J. Goedgebeur and S.P. Radziszowski, The Ramsey Number R(3,K10-e) and Computational Bounds for R(3,G), <i>Electronic Journal of Combinatorics</i>, 20(4), 2013.",
+    "R. Šámal, Cycle-continuous mappings—order structure. In <i>The Seventh European Conference on Combinatorics, Graph Theory and Applications</i> (pp. 513-520), Scuola Normale Superiore, 2013.",
+    "P. Schwerdtfeger, L. Wirz and J. Avery, Program fullerene: a software package for constructing and analyzing structures of regular fullerenes, <i>Journal of computational chemistry</i>, 34(17):1508-1526, 2013."
+  ],
+  "2012": [
+    "G. Brinkmann, J. Goedgebeur and J.C. Schlage-Puchta, Ramsey numbers R(K3,G) for graphs of order 10, <i>Electronic Journal of Combinatorics</i>, 19(4), 2012."
+  ]
+}

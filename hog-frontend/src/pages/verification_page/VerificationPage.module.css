@@ -1,0 +1,12 @@
+.verifySuccess {
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.verifySuccess p {
+    margin-bottom: 0;
+    padding: 5px;
+}

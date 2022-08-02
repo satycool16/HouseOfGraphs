@@ -1,0 +1,28 @@
+.table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.table td, .table th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.table th {
+    background-color: lightgrey;
+}
+
+.table td:first-child {
+    background-color: #f3f3f3;
+}
+
+.references p {
+    margin-bottom: 0;
+}
+
+.content > p {
+    margin-bottom: 0;
+}

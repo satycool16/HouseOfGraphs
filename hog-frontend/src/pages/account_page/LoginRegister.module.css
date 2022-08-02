@@ -1,0 +1,86 @@
+.toggleBox {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sentence {
+    margin-bottom: 0;
+}
+
+.toggleView {
+    display: inline-block;
+    margin-bottom: 0;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.toggleView:hover {
+    color: gray;
+}
+
+.registerSuccess {
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.registerSuccess p {
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.errorBox {
+    background-color: #f5b8b1;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #e74d3c;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.errorBox p {
+    margin-bottom: 0;
+    color: #5c1f18;
+}
+
+.btnBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.title {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.body {
+    padding: 5px 30px 0 30px;
+}
+
+.loginForgot {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+.loginForgot p {
+    margin-bottom: 0;
+    margin-top: 2px;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.loginForgot p:hover {
+    color: gray;
+}

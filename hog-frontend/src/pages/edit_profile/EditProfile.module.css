@@ -1,0 +1,30 @@
+.profileBox {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.btnBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    column-gap: 10px;
+}
+
+.profileBox p {
+    margin-bottom: 0;
+}
+
+.errorBox {
+    background-color: #f5b8b1;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #e74d3c;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.errorBox p {
+    margin-bottom: 0;
+    color: #5c1f18;
+}

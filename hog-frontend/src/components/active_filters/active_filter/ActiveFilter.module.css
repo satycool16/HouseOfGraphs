@@ -1,0 +1,16 @@
+.filterBox {
+    background-color: #DDFFDD;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.hover:hover {
+    background-color: #8aff8a;
+}
+
+.removeBtn {
+    font-size: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+}

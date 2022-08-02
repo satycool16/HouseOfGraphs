@@ -1,0 +1,32 @@
+.profileBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profileBox p {
+    margin-bottom: 0;
+}
+
+.tag {
+    border-radius: 10px;
+    margin-left: 12px;
+    font-size: small;
+    align-self: center;
+    color: white;
+    font-weight: bold;
+    padding: 1px 5px;
+    width: fit-content;
+}
+
+.nameLine {
+    display: flex;
+    flex-direction: row;
+}
+
+.btnBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    column-gap: 10px;
+}

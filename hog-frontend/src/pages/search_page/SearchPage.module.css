@@ -1,0 +1,27 @@
+.buttons {
+    margin-top: 15px;
+}
+.enquirycard {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.leftcard {
+    margin-right: 5px;
+}
+
+.rightcard {
+    margin-left: 5px;
+}
+
+.enquirycard > .enquirycardbody {
+    padding: 10px 0;
+    margin-left: 20px;
+}
+
+.buttonflex {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}
+

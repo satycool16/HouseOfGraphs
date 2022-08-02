@@ -1,0 +1,8 @@
+.helppage > p {
+    margin-bottom: 0;
+}
+
+.helppage > h4 {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}

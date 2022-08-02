@@ -1,0 +1,18 @@
+.imagebox {
+    text-align: center;
+    padding: 10px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.btnBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-top: 10px;
+    column-gap: 10px;
+}

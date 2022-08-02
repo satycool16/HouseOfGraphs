@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <ghcPath>C:\Program Files\Haskell Platform\8.4.3\bin\ghc.exe</ghcPath>
+    <cabalPath>C:\Program Files\Haskell Platform\8.4.3\lib\extralibs\bin\cabal.exe</cabalPath>
+    <stackPath>C:\Program Files\Haskell Platform\8.4.3\bin\stack.exe</stackPath>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Haskell Tool Stack" project-jdk-type="Haskell Tool Stack SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

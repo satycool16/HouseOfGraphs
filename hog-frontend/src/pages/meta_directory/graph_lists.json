@@ -1,0 +1,134 @@
+{
+  "graphLists": [
+    {
+      "name": "Almost hypohamiltonian graphs",
+      "url": "almost-hypohamiltonian"
+    },
+    {
+      "name": "Alternating plane graphs",
+      "url": "alternating-plane-graphs"
+    },
+    {
+      "name": "Cographs",
+      "url": "cographs"
+    },
+    {
+      "name": "Critical H-free graphs",
+      "url": "critical-h-free"
+    },
+    {
+      "name": "Cubic cages",
+      "url": "http://school.maths.uwa.edu.au/~gordon/remote/cages/index.html",
+      "credit": "Gordon Royle"
+    },
+    {
+      "name": "Cubic graphs",
+      "url": "cubic"
+    },
+    {
+      "name": "Directed graphs",
+      "url": "http://users.cecs.anu.edu.au/~bdm/data/digraphs.html",
+      "credit": "Brendan McKay"
+    },
+    {
+      "name": "Fullerenes",
+      "url": "fullerenes"
+    },
+    {
+      "name": "Hypohamiltonian graphs",
+      "url": "hypohamiltonian"
+    },
+    {
+      "name": "Interval graphs",
+      "url": "http://www.jaist.ac.jp/~uehara/graphs/",
+      "credit": "Ryuhei Uehara"
+    },
+    {
+      "name": "Largest degree-diameter graphs",
+      "url": "https://combgraph.upc.edu/en/resources",
+      "credit": "Universitat Politècnica De Catalunya"
+    },
+    {
+      "name": "Maximal triangle-free graphs",
+      "url": "maximal-triangle-free"
+    },
+    {
+      "name": "Minimal Cayley graphs",
+      "url": "minimal-cayley"
+    },
+    {
+      "name": "Minimal Ramsey graphs",
+      "url": "minimal-ramsey"
+    },
+    {
+      "name": "Nut graphs",
+      "url": "nut"
+    },
+    {
+      "name": "Perihamiltonian graphs",
+      "url": "perihamiltonian"
+    },
+    {
+      "name": "Planar graphs",
+      "url": "planar"
+    },
+    {
+      "name": "Planar hypohamiltonian graphs",
+      "url": "http://www.jooyandeh.com/planar_hypo/",
+      "credit": "Reza Jooyandeh"
+    },
+    {
+      "name": "Platypus graphs",
+      "url": "platypus"
+    },
+    {
+      "name": "Quartic graphs",
+      "url": "quartic"
+    },
+    {
+      "name": "Ramsey numbers",
+      "url": "ramsey-numbers"
+    },
+    {
+      "name": "Regular graphs",
+      "url": "http://www.mathe2.uni-bayreuth.de/markus/reggraphs.html",
+      "credit": "Markus Meringer"
+    },
+    {
+      "name": "Simple graphs",
+      "url": "http://cs.anu.edu.au/~bdm/data/graphs.html",
+      "credit": "Brendan McKay"
+    },
+    {
+      "name": "Snarks",
+      "url": "snarks"
+    },
+    {
+      "name": "Strongly regular graphs",
+      "url": "http://www.maths.gla.ac.uk/~es/srgraphs.php",
+      "credit": "Ted Spence"
+    },
+    {
+      "name": "Trees",
+      "url": "trees"
+    },
+    {
+      "name": "Triangle-free k-chromatic graphs",
+      "url": "triangle-free-k-chromatic"
+    },
+    {
+      "name": "Uniquely hamiltonian graphs",
+      "url": "uniquely-hamiltonian"
+    },
+    {
+      "name": "Vertex-transitive graphs",
+      "url": "https://doi.org/10.5281/zenodo.4010122",
+      "credit": "Gordon Royle"
+    },
+    {
+      "name": "Vertex-transitive cubic graphs",
+      "url": "https://github.com/kguo-sagecode/cubic-vertextransitive-graphs",
+      "credit": "Krystal Guo"
+    }
+  ]
+}

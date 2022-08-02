@@ -1,0 +1,11 @@
+.pagination_footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}
+
+.totalResults {
+    margin-right: auto;
+    margin-top: 5px;
+}

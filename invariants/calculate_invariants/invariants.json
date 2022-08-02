@@ -1,0 +1,240 @@
+{
+    "acyclic": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "1",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_acyclic.sh"
+    },
+    "average_degree": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "2",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_average_degree.sh"
+    },
+    "bipartite": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "3",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_bipartite.sh"
+    },
+    "chromatic_number": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "4",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_chromatic_number.sh"
+    },
+    "clique_number": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "5",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_clique_number.sh"
+    },
+    "connected": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "6",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_connected.sh"
+    },
+    "diameter": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "7",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_diameter.sh"
+    },
+    "edge_connectivity": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "8",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_edge_connectivity.sh"
+    },
+    "girth": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "9",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_girth.sh"
+    },
+    "degrees": {
+        "nr_of_invariants": 3,
+        "invariant_ids": "12 10 17",
+        "pattern": "(-?[0-9]+|Infinity|NaN) (-?[0-9]+|Infinity|NaN) (true|false)",
+        "input_format": "g6",
+	"job_file": "slurm_degrees.sh"
+    },
+    "matching_number": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "11",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_matching_number.sh"
+    },
+    "minimum_dominating_set": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "13",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_minimum_dominating_set.sh"
+    },
+    "number_of_edges": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "14",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_number_of_edges.sh"
+    },
+    "number_of_vertices": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "15",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_number_of_vertices.sh"
+    },
+    "radius": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "16",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_radius.sh"
+    },
+    "independence_number": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "18",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_independence_number.sh"
+    },
+    "algebraic_connectivity": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "19",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_algebraic_connectivity.sh"
+    },
+    "chromatic_index": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "20",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_chromatic_index.sh"
+    },
+    "index": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "21",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_index.sh"
+    },
+    "laplacian_largest_eigenvalue": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "22",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_laplacian_largest_eigenvalue.sh"
+    },
+    "second_largest_eigenvalue": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "23",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_second_largest_eigenvalue.sh"
+    },
+    "smallest_eigenvalue": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "24",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_smallest_eigenvalue.sh"
+    },
+    "longest_induced_path": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "25",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_longest_induced_path.sh"
+    },
+    "number_of_components": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "26",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_number_of_components.sh"
+    },
+    "number_of_triangles": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "27",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_number_of_triangles.sh"
+    },
+    "eulerian": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "28",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_eulerian.sh"
+    },
+    "hamiltonian": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "29",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_hamiltonian.sh"
+    },
+    "vertex_connectivity": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "30",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_vertex_connectivity.sh"
+    },
+    "longest_induced_cycle": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "31",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_longest_induced_cycle.sh"
+    },
+    "genus": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "32",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_genus.sh"
+    },
+    "claw_free": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "33",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_claw_free.sh"
+    },
+    "density": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "34",
+        "pattern": "(-?[0-9]+\\.?[0-9]*|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_density.sh"
+    },
+    "circumference": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "35",
+        "pattern": "(-?[0-9]+|Infinity|NaN)",
+        "input_format": "mat",
+	"job_file": "slurm_circumference.sh"
+    },
+    "planar": {
+        "nr_of_invariants": 1,
+        "invariant_ids": "36",
+        "pattern": "(true|false)",
+        "input_format": "mat",
+	"job_file": "slurm_planar.sh"
+    }
+}

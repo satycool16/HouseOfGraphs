@@ -1,0 +1,21 @@
+.adjacency {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 30px;
+}
+
+.expandVisual {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 5px;
+    column-gap: 10px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
